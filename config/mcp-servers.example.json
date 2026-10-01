@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "codegraph": {
+      "type": "stdio",
+      "command": "codegraph",
+      "args": ["serve", "--mcp"]
+    },
+    "unity-editor-mcp": {
+      "type": "stdio",
+      "command": "/path/to/unity",
+      "args": ["mcp", "--project-path", "/path/to/your/unity/project"]
+    }
+  }
+}

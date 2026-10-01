@@ -1,0 +1,15 @@
+{
+  "exclude": [
+    "Library/",
+    "Temp/",
+    "Logs/",
+    "UserSettings/",
+    "output/",
+    "obj/",
+    "Build/",
+    "Builds/",
+    ".plastic/",
+    "Assets/_Recovery/",
+    "Assets/TextMesh Pro/"
+  ]
+}
